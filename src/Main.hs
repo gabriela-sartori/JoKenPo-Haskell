@@ -1,3 +1,5 @@
+module Main where
+
 import System.Random(randomRIO)
 import Data.Char(digitToInt)
 
